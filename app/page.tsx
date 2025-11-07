@@ -5,7 +5,8 @@ export default function Home() {
 
   return (
     <div className="">
-      <main className="">{/*<UserProfile />*/}</main>
+      <main className="">
+      </main>
     </div>
   );
 }
